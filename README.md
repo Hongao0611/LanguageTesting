@@ -1,5 +1,5 @@
 # Data Analysis: Item analysis + Test analysis
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hongao0611/LanguageTesting.git/main?labpath=script%2Fanalysis.ipynb)
 We calculate the following metrics for every item:
 - Item difficulty (IF)
 - B-index (threshold = 50%)
